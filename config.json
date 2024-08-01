@@ -1,0 +1,8 @@
+{
+    "pharmacy" : "GOODDAY",
+    "nueAssistListener" : "0.0.0.0",
+    "NueAssistIP" : "192.168.1.38",
+    "NueAssistOrderPort" : 6022,
+    "PharmacyOrdersPort" : 6033,
+    "listenerVersion" : "1.0.0"
+}
